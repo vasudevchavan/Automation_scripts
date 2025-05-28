@@ -15,3 +15,4 @@
         ```
         export GITHUB_TOKEN="aasfsdf11"
         ```
+    files with format issue_<<issue#>>.txt will be created example issue_1199.txt
